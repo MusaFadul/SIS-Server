@@ -18,4 +18,4 @@ $ npm start
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 
-## Set up zour database credentials in the database/config.js.
+# Set up your database credentials in the database/config.js.
